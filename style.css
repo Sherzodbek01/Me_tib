@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: #fff;
+}
+
+body{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: bisque;
+}
